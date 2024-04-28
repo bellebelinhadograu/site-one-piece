@@ -42,3 +42,14 @@
 .simbolo-titulo{
     padding: 24px 0;
 }
+
+
+.personagem-imagem{
+    width: 120px;
+}
+.personagem-icone{
+    width: 24px;
+}
+.personagem-div{
+    text-align: center;
+}
