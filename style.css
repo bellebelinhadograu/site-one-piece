@@ -13,11 +13,32 @@
 }
 
 .cabecalho-imagem{
-     width: 20%;
+     width: 15%;
   }
 
 .cabecalho-lista-item{
      display: inline-block;
      margin: 0 16px;
+     font-size: 10px;
 }
 
+
+.simbolo-imagem{
+    width: 15%;
+}
+
+.simbolo{
+    background-image:linear-gradient(#09C4FF,#4E67E9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.simbolo-div-conteudo{
+    width: 35%
+}
+.simbolo-titulo{
+    padding: 24px 0;
+}
